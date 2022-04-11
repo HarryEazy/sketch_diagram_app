@@ -11,6 +11,22 @@
 		6391BFD6280473C600644C27 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFD5280473C600644C27 /* ContentView.swift */; };
 		6391BFD8280473C700644C27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6391BFD7280473C700644C27 /* Assets.xcassets */; };
 		6391BFDB280473C700644C27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6391BFDA280473C700644C27 /* Preview Assets.xcassets */; };
+		6391BFE32804756800644C27 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFE22804756800644C27 /* Shapes.swift */; };
+		6391BFE52804758800644C27 /* CustomColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFE42804758800644C27 /* CustomColor.swift */; };
+		6391BFE7280475EF00644C27 /* Diagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFE6280475EF00644C27 /* Diagram.swift */; };
+		6391BFE92804761D00644C27 /* DrawShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFE82804761D00644C27 /* DrawShapes.swift */; };
+		6391BFEC2804768000644C27 /* DrawingDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFEB2804768000644C27 /* DrawingDocument.swift */; };
+		6391BFEE2804769700644C27 /* DrawingEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFED2804769700644C27 /* DrawingEngine.swift */; };
+		6391BFF0280476B400644C27 /* CustomFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFEF280476B400644C27 /* CustomFileManager.swift */; };
+		6391BFF32804777600644C27 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFF22804777600644C27 /* DrawingView.swift */; };
+		6391BFF52804782700644C27 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFF42804782700644C27 /* MenuView.swift */; };
+		6391BFF72804785B00644C27 /* ListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFF62804785B00644C27 /* ListCell.swift */; };
+		6391BFFA280478DC00644C27 /* TextFieldAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFF9280478DC00644C27 /* TextFieldAlertViewController.swift */; };
+		6391BFFC280478F700644C27 /* TextFieldAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFFB280478F700644C27 /* TextFieldAlert.swift */; };
+		6391BFFE2804790F00644C27 /* View+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFFD2804790F00644C27 /* View+Ext.swift */; };
+		6391C0002804794000644C27 /* TextFieldWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391BFFF2804794000644C27 /* TextFieldWrapper.swift */; };
+		6391C0032804796900644C27 /* AlertButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391C0022804796900644C27 /* AlertButton.swift */; };
+		6391C0052804799800644C27 /* AddButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6391C0042804799800644C27 /* AddButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		6391BFD5280473C600644C27 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6391BFD7280473C700644C27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6391BFDA280473C700644C27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6391BFE22804756800644C27 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		6391BFE42804758800644C27 /* CustomColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColor.swift; sourceTree = "<group>"; };
+		6391BFE6280475EF00644C27 /* Diagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diagram.swift; sourceTree = "<group>"; };
+		6391BFE82804761D00644C27 /* DrawShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawShapes.swift; sourceTree = "<group>"; };
+		6391BFEB2804768000644C27 /* DrawingDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingDocument.swift; sourceTree = "<group>"; };
+		6391BFED2804769700644C27 /* DrawingEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingEngine.swift; sourceTree = "<group>"; };
+		6391BFEF280476B400644C27 /* CustomFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFileManager.swift; sourceTree = "<group>"; };
+		6391BFF22804777600644C27 /* DrawingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		6391BFF42804782700644C27 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		6391BFF62804785B00644C27 /* ListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListCell.swift; sourceTree = "<group>"; };
+		6391BFF9280478DC00644C27 /* TextFieldAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldAlertViewController.swift; sourceTree = "<group>"; };
+		6391BFFB280478F700644C27 /* TextFieldAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldAlert.swift; sourceTree = "<group>"; };
+		6391BFFD2804790F00644C27 /* View+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Ext.swift"; sourceTree = "<group>"; };
+		6391BFFF2804794000644C27 /* TextFieldWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldWrapper.swift; sourceTree = "<group>"; };
+		6391C0022804796900644C27 /* AlertButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertButton.swift; sourceTree = "<group>"; };
+		6391C0042804799800644C27 /* AddButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +83,14 @@
 		6391BFD2280473C600644C27 /* Sketch_Diagram_App */ = {
 			isa = PBXGroup;
 			children = (
-				6391BFD3280473C600644C27 /* Sketch_Diagram_AppApp.swift */,
-				6391BFD5280473C600644C27 /* ContentView.swift */,
+				6391BFF8280478A300644C27 /* TextFieldAlert */,
+				6391BFF12804776400644C27 /* Views */,
+				6391BFEA2804766100644C27 /* Controller */,
+				6391BFE12804750F00644C27 /* Model */,
 				6391BFD7280473C700644C27 /* Assets.xcassets */,
 				6391BFD9280473C700644C27 /* Preview Content */,
+				6391BFD3280473C600644C27 /* Sketch_Diagram_AppApp.swift */,
+				6391BFD5280473C600644C27 /* ContentView.swift */,
 			);
 			path = Sketch_Diagram_App;
 			sourceTree = "<group>";
@@ -65,6 +101,58 @@
 				6391BFDA280473C700644C27 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6391BFE12804750F00644C27 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6391BFE22804756800644C27 /* Shapes.swift */,
+				6391BFE42804758800644C27 /* CustomColor.swift */,
+				6391BFE6280475EF00644C27 /* Diagram.swift */,
+				6391BFE82804761D00644C27 /* DrawShapes.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6391BFEA2804766100644C27 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				6391BFEB2804768000644C27 /* DrawingDocument.swift */,
+				6391BFED2804769700644C27 /* DrawingEngine.swift */,
+				6391BFEF280476B400644C27 /* CustomFileManager.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		6391BFF12804776400644C27 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6391C0012804795700644C27 /* Buttons */,
+				6391BFF22804777600644C27 /* DrawingView.swift */,
+				6391BFF42804782700644C27 /* MenuView.swift */,
+				6391BFF62804785B00644C27 /* ListCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6391BFF8280478A300644C27 /* TextFieldAlert */ = {
+			isa = PBXGroup;
+			children = (
+				6391BFF9280478DC00644C27 /* TextFieldAlertViewController.swift */,
+				6391BFFB280478F700644C27 /* TextFieldAlert.swift */,
+				6391BFFD2804790F00644C27 /* View+Ext.swift */,
+				6391BFFF2804794000644C27 /* TextFieldWrapper.swift */,
+			);
+			path = TextFieldAlert;
+			sourceTree = "<group>";
+		};
+		6391C0012804795700644C27 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				6391C0022804796900644C27 /* AlertButton.swift */,
+				6391C0042804799800644C27 /* AddButton.swift */,
+			);
+			path = Buttons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +225,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6391BFEE2804769700644C27 /* DrawingEngine.swift in Sources */,
 				6391BFD6280473C600644C27 /* ContentView.swift in Sources */,
+				6391BFFE2804790F00644C27 /* View+Ext.swift in Sources */,
+				6391C0052804799800644C27 /* AddButton.swift in Sources */,
 				6391BFD4280473C600644C27 /* Sketch_Diagram_AppApp.swift in Sources */,
+				6391BFF0280476B400644C27 /* CustomFileManager.swift in Sources */,
+				6391BFE52804758800644C27 /* CustomColor.swift in Sources */,
+				6391BFEC2804768000644C27 /* DrawingDocument.swift in Sources */,
+				6391BFE92804761D00644C27 /* DrawShapes.swift in Sources */,
+				6391BFF52804782700644C27 /* MenuView.swift in Sources */,
+				6391BFFC280478F700644C27 /* TextFieldAlert.swift in Sources */,
+				6391BFFA280478DC00644C27 /* TextFieldAlertViewController.swift in Sources */,
+				6391C0002804794000644C27 /* TextFieldWrapper.swift in Sources */,
+				6391BFF32804777600644C27 /* DrawingView.swift in Sources */,
+				6391C0032804796900644C27 /* AlertButton.swift in Sources */,
+				6391BFF72804785B00644C27 /* ListCell.swift in Sources */,
+				6391BFE7280475EF00644C27 /* Diagram.swift in Sources */,
+				6391BFE32804756800644C27 /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
